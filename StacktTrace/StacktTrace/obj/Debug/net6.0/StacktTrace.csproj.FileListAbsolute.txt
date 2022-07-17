@@ -1,0 +1,15 @@
+C:\Users\ZbooK\source\repos\IrynaNakoneshniuk\Practical\StacktTrace\StacktTrace\bin\Debug\net6.0\StacktTrace.exe
+C:\Users\ZbooK\source\repos\IrynaNakoneshniuk\Practical\StacktTrace\StacktTrace\bin\Debug\net6.0\StacktTrace.deps.json
+C:\Users\ZbooK\source\repos\IrynaNakoneshniuk\Practical\StacktTrace\StacktTrace\bin\Debug\net6.0\StacktTrace.runtimeconfig.json
+C:\Users\ZbooK\source\repos\IrynaNakoneshniuk\Practical\StacktTrace\StacktTrace\bin\Debug\net6.0\StacktTrace.dll
+C:\Users\ZbooK\source\repos\IrynaNakoneshniuk\Practical\StacktTrace\StacktTrace\bin\Debug\net6.0\StacktTrace.pdb
+C:\Users\ZbooK\source\repos\IrynaNakoneshniuk\Practical\StacktTrace\StacktTrace\obj\Debug\net6.0\StacktTrace.csproj.AssemblyReference.cache
+C:\Users\ZbooK\source\repos\IrynaNakoneshniuk\Practical\StacktTrace\StacktTrace\obj\Debug\net6.0\StacktTrace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZbooK\source\repos\IrynaNakoneshniuk\Practical\StacktTrace\StacktTrace\obj\Debug\net6.0\StacktTrace.AssemblyInfoInputs.cache
+C:\Users\ZbooK\source\repos\IrynaNakoneshniuk\Practical\StacktTrace\StacktTrace\obj\Debug\net6.0\StacktTrace.AssemblyInfo.cs
+C:\Users\ZbooK\source\repos\IrynaNakoneshniuk\Practical\StacktTrace\StacktTrace\obj\Debug\net6.0\StacktTrace.csproj.CoreCompileInputs.cache
+C:\Users\ZbooK\source\repos\IrynaNakoneshniuk\Practical\StacktTrace\StacktTrace\obj\Debug\net6.0\StacktTrace.dll
+C:\Users\ZbooK\source\repos\IrynaNakoneshniuk\Practical\StacktTrace\StacktTrace\obj\Debug\net6.0\refint\StacktTrace.dll
+C:\Users\ZbooK\source\repos\IrynaNakoneshniuk\Practical\StacktTrace\StacktTrace\obj\Debug\net6.0\StacktTrace.pdb
+C:\Users\ZbooK\source\repos\IrynaNakoneshniuk\Practical\StacktTrace\StacktTrace\obj\Debug\net6.0\StacktTrace.genruntimeconfig.cache
+C:\Users\ZbooK\source\repos\IrynaNakoneshniuk\Practical\StacktTrace\StacktTrace\obj\Debug\net6.0\ref\StacktTrace.dll
