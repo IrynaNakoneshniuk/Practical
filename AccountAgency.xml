@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfExecutiveAgency xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ExecutiveAgency>
+    <Name>cnuiry</Name>
+    <Surname>bcurip8</Surname>
+    <LastName>ncilr8</LastName>
+    <Created>26.08.2022 1:33:41</Created>
+    <Password>Qwerty/12</Password>
+    <StructuralUnit>cvuirl</StructuralUnit>
+    <PoliceID>bcu123456</PoliceID>
+  </ExecutiveAgency>
+</ArrayOfExecutiveAgency>
